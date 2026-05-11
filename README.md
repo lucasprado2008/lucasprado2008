@@ -46,5 +46,6 @@
 ## Experience
 
 - Freelance development of an institutional website (Instaltech)
+- Three-month exchange experience in Australia
 - Academic project: CRUD system in C# (Etec)
 - Academic project: institutional website using ASP.NET (Etec)
